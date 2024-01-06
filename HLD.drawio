@@ -1,0 +1,93 @@
+<mxfile host="app.diagrams.net" modified="2024-01-06T14:40:11.154Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="HRSWWq0lXl096Lj1dnZ7" version="22.1.17" type="google">
+  <diagram name="Page-1" id="4_Y_fjicx_gBH6E5XWxe">
+    <mxGraphModel dx="1306" dy="860" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="kWA5N6Tsu1rXV4CMcU-c-1" value="Travel Package" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="390" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kWA5N6Tsu1rXV4CMcU-c-2" value="List of Passengers" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="210" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kWA5N6Tsu1rXV4CMcU-c-3" value="List of Destinations" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="510" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kWA5N6Tsu1rXV4CMcU-c-7" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="kWA5N6Tsu1rXV4CMcU-c-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="640" y="470" as="sourcePoint" />
+            <mxPoint x="600" y="420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kWA5N6Tsu1rXV4CMcU-c-8" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="600" y="420" as="sourcePoint" />
+            <mxPoint x="600" y="540" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kWA5N6Tsu1rXV4CMcU-c-9" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="600" y="240" as="sourcePoint" />
+            <mxPoint x="600" y="420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kWA5N6Tsu1rXV4CMcU-c-10" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="kWA5N6Tsu1rXV4CMcU-c-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="600" y="540" as="sourcePoint" />
+            <mxPoint x="690" y="420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kWA5N6Tsu1rXV4CMcU-c-11" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="kWA5N6Tsu1rXV4CMcU-c-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="600" y="240" as="sourcePoint" />
+            <mxPoint x="690" y="420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kWA5N6Tsu1rXV4CMcU-c-12" value="Passenger" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="940" y="210" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kWA5N6Tsu1rXV4CMcU-c-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="kWA5N6Tsu1rXV4CMcU-c-13">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1180" y="540" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kWA5N6Tsu1rXV4CMcU-c-13" value="List of Activities" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="970" y="505" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="kWA5N6Tsu1rXV4CMcU-c-16" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="kWA5N6Tsu1rXV4CMcU-c-2" target="kWA5N6Tsu1rXV4CMcU-c-12">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="640" y="470" as="sourcePoint" />
+            <mxPoint x="690" y="420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kWA5N6Tsu1rXV4CMcU-c-17" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="kWA5N6Tsu1rXV4CMcU-c-3" target="kWA5N6Tsu1rXV4CMcU-c-13">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="640" y="470" as="sourcePoint" />
+            <mxPoint x="690" y="420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kWA5N6Tsu1rXV4CMcU-c-20" value="Activity" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1180" y="505" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="kWA5N6Tsu1rXV4CMcU-c-22" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.45;exitY=1.017;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="kWA5N6Tsu1rXV4CMcU-c-12">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="640" y="470" as="sourcePoint" />
+            <mxPoint x="1030" y="500" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kWA5N6Tsu1rXV4CMcU-c-23" value="Each Passenger has list of signed Activities" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1050" y="370" width="240" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="kWA5N6Tsu1rXV4CMcU-c-24" value="Each Destination has list of Activities" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="780" y="570" width="240" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="kWA5N6Tsu1rXV4CMcU-c-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kWA5N6Tsu1rXV4CMcU-c-25" target="kWA5N6Tsu1rXV4CMcU-c-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kWA5N6Tsu1rXV4CMcU-c-25" value="PassengerType" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="940" y="100" width="200" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
